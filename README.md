@@ -15,7 +15,7 @@ This project analyzes global COVID-19 case data over time and includes animated 
 - Format: .csv time series with columns for country, date, cases, etc.
 
 
-## 📸   ![Global Trend]
+## 📸   ![Global Trend]  ![Covid-19 Chart](covid-19-Chart.png)
 
 ## 📽️ live Interactive Visualization: Explore the animated chart of COVID-19 top 10 countries over time
 [Click to view animation](https://ferdaouss1508.github.io/covid-animation-site/) 
